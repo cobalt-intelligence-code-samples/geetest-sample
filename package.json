@@ -1,0 +1,27 @@
+{
+  "name": "geetest-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobalt-intelligence-code-samples/geetest-sample.git"
+  },
+  "author": "Jordan Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobalt-intelligence-code-samples/geetest-sample/issues"
+  },
+  "homepage": "https://github.com/cobalt-intelligence-code-samples/geetest-sample#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1269.0",
+    "cobalt-int-common": "^1.0.43",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^19.3.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
